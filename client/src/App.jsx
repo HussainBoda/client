@@ -9,7 +9,9 @@ function App() {
   return (
     <>
       <h1> BODA HUSSAIN </h1>
-      <img src = 'https://avatars.githubusercontent.com/u/159928676?v=4'/>
+      <div>
+        hello
+      </div>
     </>
   )
 }
